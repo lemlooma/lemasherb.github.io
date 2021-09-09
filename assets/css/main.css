@@ -3528,7 +3528,7 @@ input, select, textarea {
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
 		/* background: #312450; */
-		background: rgba(159, 224, 146, 0.98);
+		background: rgba(190, 240, 180, 0.98);
 		cursor: default;
 		height: 100vh;
 		left: 0;
