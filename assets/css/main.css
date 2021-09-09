@@ -3799,9 +3799,9 @@ input, select, textarea {
 
 		img.profile-image {
 			width: 20rem;
-    		height: 20rem;
+    		height: 25rem;
     		margin-left: 65px;
-			margin-top: 65px;
+			margin-top: 75px;
 		}
 
 		img.photo-technologies {
