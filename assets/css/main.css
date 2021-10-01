@@ -3528,7 +3528,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(4, 139, 38, 0.692);
+		border-bottom-color: rgba(0, 0, 0, 0.692);
 	}
 
 		#footer > .inner a:hover {
@@ -3537,7 +3537,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: #ecdbdb;
+		color: #000000;
 	}
 
 	#header + #wrapper + #footer > .inner {
